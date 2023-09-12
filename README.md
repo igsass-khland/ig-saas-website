@@ -9,7 +9,7 @@
    - **Portfolio:** The portfolio subsection showcases a selection of IG SAAS's most impressive and impactful projects. Each project is presented with detailed descriptions and visuals, giving visitors a clear understanding of your company's capabilities and achievements.
   
 3. **About Us:** The "About Us" page offers a comprehensive look into IG SAAS. It delves into the company's history, highlighting key milestones and achievements. It articulates the company's mission, core values, and its commitment to excellence in software development. This page introduces the talented individuals that make up the IG SAAS team, providing brief bios and showcasing their expertise. Additionally, it may feature any relevant certifications, partnerships, or industry affiliations, further establishing your credibility.
-   - **Our Team**
+   - **Our Team**: these are **Secondary Pages:**
    - **Why Choose IG SAAS:** This section lists the key advantages of selecting IG SAAS as a partner for software development. It emphasizes your dedication to quality, innovation, and customer satisfaction. (Our Expertise and Strength)
 
 4. **Contact Us:** The "Contact Us" page provides essential contact information, ensuring visitors can easily reach out to IG SAAS. It typically includes an email address, phone number, and potentially a physical address if applicable. A user-friendly contact form is provided for inquiries and questions. If you have a physical office location, consider incorporating a map to assist visitors in finding your premises.
